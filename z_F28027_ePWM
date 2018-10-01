@@ -123,4 +123,4 @@ InitEPwm1Example()
     EPwm1Regs.ETPS.bit.INTPRD = ET_2ND;           // Generate INT on 3rd event
 */
 
-}
+} 
